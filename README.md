@@ -3,7 +3,7 @@
 This is the official submission of the team IMDb Dataset for Homework 2.
 Unfortunately it is not possible to upload the visualization to GitHub due to its size (1.2GB). If you need the file, please write to Mathias Hazibar. 
 
-<h3>Participants: <h3>
+<h3>Participants: </h3>
 
 * Mathias Hazibar
 * Ali-El Amine
